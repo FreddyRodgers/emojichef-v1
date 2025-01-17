@@ -292,10 +292,6 @@ print(f"Bits per emoji: {stats['bits_per_emoji']:.1f}")
 
 ## ⚠️ Important [Security Notice](docs/emojichef-security-notice.md): Encoding vs. Encryption
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.MD) file for details.
-
 ## Acknowledgments
 
 - Inspired by [Wingdings](https://en.wikipedia.org/wiki/Wingdings), [CyberChef](https://github.com/gchq/CyberChef), and the prior experimental emoji encoding schemes 
@@ -316,3 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.MD) f
 - Interactive menu interface
 - Basic statistics
 - Colorful terminal output
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.MD) file for details.
